@@ -10,7 +10,7 @@ This is  codes, notes, and snippets about Redux
 <p>
 <strong>Redux</strong>
 </p>
-https://ithelp.ithome.com.tw/articles/10202798
+**https://ithelp.ithome.com.tw/articles/10202798**
 <p>
 
 <strong><a href="https://redux.js.org/introduction/getting-started">https://redux.js.org/introduction/getting-started</a></strong>
