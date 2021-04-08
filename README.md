@@ -19,6 +19,8 @@ This is  codes, notes, and snippets about Redux
 
 <strong>#What is redux?   Redux is about state management library for javascript app</strong>
 </p>
+
+![https://github.com/YinHk-Notes/Redux/blob/main/React%20%E8%88%87%20Redux%20%E7%9A%84%E9%97%9C%E4%BF%82.png](https://github.com/YinHk-Notes/Redux/blob/main/React%20%E8%88%87%20Redux%20%E7%9A%84%E9%97%9C%E4%BF%82.png)
 <p>
 
 <strong>#Redux learning source: </strong>
