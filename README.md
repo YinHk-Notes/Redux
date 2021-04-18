@@ -9,8 +9,8 @@ This is  codes, notes, and snippets about Redux
 
 ## Redux
 **https://chentsulin.github.io/redux/docs/basics/Actions.html** \
-**https://ithelp.ithome.com.tw/articles/10202798** \
-**https://redux.js.org/introduction/getting-started**
+**https://redux.js.org/introduction/getting-started** \
+**https://ithelp.ithome.com.tw/articles/10202798**
 
 **Redux 搭配 React 運用** \
 **https://chentsulin.github.io/redux/docs/basics/UsageWithReact.html**
@@ -29,7 +29,7 @@ This is  codes, notes, and snippets about Redux
 </p>
 <h2>
 
-
+-- --
 <strong>Basic Introductions<a href="https://redux.js.org/introduction/learning-resources#basic-introductions">#</a></strong></h2>
 
 
