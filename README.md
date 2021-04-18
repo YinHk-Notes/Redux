@@ -7,15 +7,13 @@ This is  codes, notes, and snippets about Redux
 -- --
 
 
-<p>
-<strong>Redux</strong>
-</p>
-<strong>https://ithelp.ithome.com.tw/articles/10202798</strong>
-<p>
+## Redux
+**https://chentsulin.github.io/redux/docs/basics/Actions.html** \
+**https://ithelp.ithome.com.tw/articles/10202798** \
+**https://redux.js.org/introduction/getting-started**
 
-<strong><a href="https://redux.js.org/introduction/getting-started">https://redux.js.org/introduction/getting-started</a></strong>
-</p>
-<p>
+**Redux 搭配 React 運用** \
+**https://chentsulin.github.io/redux/docs/basics/UsageWithReact.html**
 
 <strong>#What is redux?   Redux is about state management library for javascript app</strong>
 </p>
@@ -30,6 +28,8 @@ This is  codes, notes, and snippets about Redux
 <strong>Redux for beginners: <a href="https://www.youtube.com/watch?v=poQXNp9ItL4">https://www.youtube.com/watch?v=poQXNp9ItL4</a></strong>
 </p>
 <h2>
+
+
 <strong>Basic Introductions<a href="https://redux.js.org/introduction/learning-resources#basic-introductions">#</a></strong></h2>
 
 
