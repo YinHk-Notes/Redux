@@ -15,6 +15,7 @@ This is  codes, notes, and snippets about Redux
 **Redux 搭配 React 運用** \
 **https://chentsulin.github.io/redux/docs/basics/UsageWithReact.html** \
 **https://react-redux.js.org/introduction/getting-started**
+
 <strong>#What is redux?   Redux is about state management library for javascript app</strong>
 </p>
 
