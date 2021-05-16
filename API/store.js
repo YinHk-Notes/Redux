@@ -12,4 +12,4 @@ createStore(reducer, [preloadedState], [enhancer])
    or to restore a previously serialized user session. If you produced reducer with combineReducers, this must be a plain object with 
    the same shape as the keys passed to it. Otherwise, you are free to pass anything that your reducer can understand.
    3.[enhancer] (Function): The store enhancer. You may optionally specify it to enhance the store with third-party capabilities such as
-   middleware, time travel, persistence, etc. The only store enhancer that ships with Redux is applyMiddleware().
+   middleware, time travel, persistence, etc. The only store enhancer that ships with Redux is applyMiddleware().*/
