@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/YinHk-Notes/Redux/blob/main/Redux.png" height="200px">
+<img src="./src/Redux.png" height="200px">
 </p>
 
 # Redux
