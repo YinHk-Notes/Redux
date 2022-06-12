@@ -10,7 +10,8 @@ This is  codes, notes, and snippets about Redux
 ## Redux
 **https://chentsulin.github.io/redux/docs/basics/Actions.html** \
 **https://redux.js.org/introduction/getting-started** \
-**https://ithelp.ithome.com.tw/articles/10202798**
+**https://ithelp.ithome.com.tw/articles/10202798** \
+**https://kaochihyu.coderbridge.io/2021/01/25/how-to-use-redux/**
 
 **Redux 搭配 React 運用** \
 **https://chentsulin.github.io/redux/docs/basics/UsageWithReact.html** \
