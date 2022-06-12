@@ -19,6 +19,10 @@ export const action = ({params={},callback}) => {
     };
 };
 ```
-  
+
+```js
+dispatch(action)
+dispatch({type: ..., payload: ...})
+```
   
   
