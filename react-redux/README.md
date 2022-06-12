@@ -52,17 +52,18 @@ export default connect(mapState, mapDispatch)(App)
 const mapDispatchToProps = {
   //... dispatch action
 };
+
+connect(null, mapDispatchToProps)(App)  //if mapStateToProps is not specified
 ```
 
 ```js
 // TodoList.js
 
 function mapStateToProps(state) {
-  const { todos } = state
-  return { todoList: todos.allIds }
+  // get yje state form the store
 }
 
-export default connect(mapStateToProps)(TodoList)
+export default connect(mapStateToProps)(App)
 ```
 
 
