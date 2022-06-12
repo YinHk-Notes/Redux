@@ -48,5 +48,21 @@ function mapDispatch (dispatch) {
 export default connect(mapState, mapDispatch)(App)
 ```
 
+```js
+const mapDispatchToProps = {
+  //... dispatch action
+};
+```
+
+```js
+// TodoList.js
+
+function mapStateToProps(state) {
+  const { todos } = state
+  return { todoList: todos.allIds }
+}
+
+export default connect(mapStateToProps)(TodoList)
+```
 
 
