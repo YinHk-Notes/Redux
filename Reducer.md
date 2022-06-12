@@ -16,14 +16,14 @@ export default (state = INITIAL_STATE, action = {}) => {
    switch (action.type) {
    
        case 'A': {
-          return {
+          return {  // Handle update state
               ...state,
               STATE_A: action.payload
           };
        }
        
        case 'B': {
-          return {
+          return {  // Handle update state
               ...state,
               STATE_B: action.payload
            };
