@@ -90,7 +90,7 @@ const mapDispatchToProps = (dispatch) => {
 function mapStateToProps(state) {
   // get yje state form the store
   return {
-    counter: state.counter  //example
+    counter: state.counter  //example  or const { counter } = state
   };
 }
 
