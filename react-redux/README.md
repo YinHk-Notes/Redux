@@ -121,6 +121,22 @@ export const CounterComponent = ({ value }) => {
   )
 
 ```
+```js
+const mapDispatchToProps = (dispatch) => {...}
+```
+```js
+const increment = () => ({ type: 'INCREMENT' })
+const decrement = () => ({ type: 'DECREMENT' })
+const reset = () => ({ type: 'RESET' })
 
+const mapDispatchToProps = (dispatch) => {
+  return {
+    // dispatching actions returned by action creators
+    increment: () => dispatch(increment()),
+    decrement: () => dispatch(decrement()),
+    reset: () => dispatch(reset()),
+  }
+}
+```
 
 > 使用了 Hooks 之後，我們基本上就要跟 connect 、 mapStateToProps 與 mapStateToDispatch 說再見啦，完全用不到了
