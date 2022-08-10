@@ -1,5 +1,5 @@
 ### Actions
-Actions are ***plain JavaScript objects that have a type field****.
+Actions are ***plain JavaScript objects that have a type field***.
 We normally put any extra data needed to describe what's happening for this action, into the ***`action.payload` field***
 actions will be dispatched to the reducer if state change
   
