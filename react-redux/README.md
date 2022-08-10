@@ -88,7 +88,7 @@ const mapDispatchToProps = (dispatch) => {
 // TodoList.js
 
 function mapStateToProps(state) {
-  // get yje state form the store
+  // get state form the store
   return {
     counter: state.counter  //example  or const { counter } = state
   };
